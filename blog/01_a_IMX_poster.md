@@ -12,16 +12,18 @@
 
 ## Title: BlockyTunes
 ## Brief Description:
+An interactive exploration of your favorate song.
+It's for everyone.
+Lives in a museum, or other kind of gallery space.
+
+## Form:
+![alt-test](./resources/blockytune.png)
 
 
-
-
-# MID
-
-## LEC 1
-### Catalog of Attributes
+## Song of insperation:
 Put your hands where my eyes could see
 
+### Catalog of Attributes
 90 bpm, Pacing, walking tempo
 
 Rap
