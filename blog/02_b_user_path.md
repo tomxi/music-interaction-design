@@ -30,3 +30,5 @@ Cross sessional associations and maybe a database of practice session patterns.
 
 - What is it about a practice that's fulfilling (Talk to some people)
 
+- live object models (LOM)
+
