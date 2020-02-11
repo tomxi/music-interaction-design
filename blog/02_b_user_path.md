@@ -21,3 +21,7 @@
 ## Want:
 Cross sessional associations and maybe a database of practice session patterns.
 
+## Notes during class:
+(physical signal to synth)[sunhou.se]
+(8 button piano/ google)[https://magenta.tensorflow.org/pianogenie]
+
