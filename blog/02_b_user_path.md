@@ -25,3 +25,8 @@ Cross sessional associations and maybe a database of practice session patterns.
 - [physical signal to synth](sunhou.se)
 - [8 button piano/ google](https://magenta.tensorflow.org/pianogenie)
 
+- Excercise Apps
+- Social Media
+
+- What is it about a practice that's fulfilling (Talk to some people)
+
